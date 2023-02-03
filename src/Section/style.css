@@ -1,0 +1,28 @@
+.section__header {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+    grid-gap: 20px;
+    align-items: center;
+    padding: 20px;
+}
+
+@media (max-width: 767px) {
+    .section__header {
+        grid-template-columns: 1fr;
+    }
+}
+
+.section__listName {
+    margin: 0;
+}
+
+.section {
+    margin: 10px;
+    background-color: white;
+}
+
+.section__content {
+    padding: 20px;
+    border-top: 1px solid #ddd;
+}
