@@ -2,7 +2,7 @@
 ## DEMO
 https://saimonn37.github.io/ToDo-List-react/
 ## Description 
-A simple aplication to add tasks to the our Task List but without interaction yet.
+A simple aplication to add tasks to the our Task List with interaction.
 ## Interface 
 ![To-Do List](https://i.postimg.cc/mgw1Tw1Q/Zrzut-ekranu-2023-02-03-123100.png)
 
