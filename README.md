@@ -6,16 +6,16 @@ A simple aplication to add tasks to the our Task List with interaction.
 ## Interface 
 ![To-Do List](https://i.postimg.cc/mgw1Tw1Q/Zrzut-ekranu-2023-02-03-123100.png)
 ## Used Technologies
-HTML
-CSS Grid
-Normalize
-BEM convention
-JavaScript
-ES6+ features
-Git
-Markdown
-React
-Creat-react-app
+- HTML
+- CSS Grid
+- Normalize
+- BEM convention
+- JavaScript
+- ES6+ features
+- Git
+- Markdown
+- React
+- Creat-react-app
 
 # Getting Started with Create React App
 
