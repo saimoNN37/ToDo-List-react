@@ -20,6 +20,12 @@ export const Header = styled.header`
     grid-gap: 20px;
     align-items: center;
     padding: 20px;
+
+    @media (max-width: 767px) {
+        grid-template-columns: 1fr;
+    }
+
+    
 `;
 
 export const Content = styled.div`
