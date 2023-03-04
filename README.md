@@ -16,6 +16,7 @@ A simple aplication to add tasks to the our Task List with interaction.
 - Markdown
 - React
 - Creat-react-app
+- Redux
 
 # Getting Started with Create React App
 
