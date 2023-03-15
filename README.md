@@ -2,9 +2,9 @@
 ## DEMO
 https://saimonn37.github.io/ToDo-List-react/
 ## Description 
-A simple aplication to add tasks to the our Task List with interaction.
+A simple aplication to add tasks to the our Task List with interaction. You can also download example tasks.
 ## Interface 
-![To-Do List](https://i.postimg.cc/mgw1Tw1Q/Zrzut-ekranu-2023-02-03-123100.png)
+![To-Do List](https://i.postimg.cc/fRr2g8C1/Zrzut-ekranu-2023-03-15-002444.png)
 ## Used Technologies
 - HTML
 - CSS Grid
@@ -17,6 +17,9 @@ A simple aplication to add tasks to the our Task List with interaction.
 - React
 - Creat-react-app
 - Redux
+- React router
+- Custom Hooks
+- 
 
 # Getting Started with Create React App
 
